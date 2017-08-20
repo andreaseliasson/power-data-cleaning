@@ -1,1 +1,1 @@
-# power-data-cleaning
+# Data processing (cleaning and formatting) for the MSc project
